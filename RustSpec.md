@@ -642,6 +642,7 @@ v.iter()
    .fold(0, |acc, x| {acc + x}); // outputs 30!
 ```
 
+---
 #### Threads
 **Rust threading** is portable, so **threads** should work across **Mac**, **Linux**, and **Windows**, and any other platform!
 * When creating a **thread**, the **spawn** function takes a **closure** with no arguments. The **closure** is executed as the main **function** of the **thread**! Commonly different **functions** are called from this **thread closure** for brevity.
