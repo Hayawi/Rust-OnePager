@@ -3,9 +3,13 @@
 # Rust-OnePager
 A (long) one pager outlining the entire Rust language spec. This is meant as a way to either learn the language spec really quickly, with no fluff, or as reference coming back to the language.
 
+### How to Use
+The concepts in the spec flow naturally into each other and build upon previous concepts. Therefore the best way to read through this wiki is sequentially in the suggested order!
+
 ### Options
-1. You can read through the entirety of the Rust spec as a one-pager [here](https://github.com/Hayawi/Rust-OnePager/blob/main/RustSpec.md)!
-2. You can read through single concept one-pagers for a better formatted experience!
+1. You can read through the [wiki](https://github.com/Hayawi/Rust-OnePager/wiki)!
+2. You can read through the entirety of the Rust spec as a one-pager [here](https://github.com/Hayawi/Rust-OnePager/blob/main/RustSpec.md)!
+3. You can read through single concept one-pagers for a better formatted experience!
 
 | Concepts |
 | ---- |
