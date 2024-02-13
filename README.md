@@ -1,7 +1,7 @@
 [![Ceasefire Now](https://badge.techforpalestine.org/default)](https://techforpalestine.org/learn-more)
 
 # Rust-OnePager
-A (long) one pager outlining the entire Rust language spec. This is meant as a way to either learn the language spec really quickly, with no fluff, or as reference coming back to the language.
+A (long) one pager outlining the entire Rust language spec. This is meant as a way to either learn the language spec really quickly, with no fluff, or as reference coming back to the language. Learn Rust in a weekend! That's how I did it :)
 
 ### How to Use
 The concepts in the spec flow naturally into each other and build upon previous concepts. Therefore the best way to read through this wiki is sequentially in the suggested order!
